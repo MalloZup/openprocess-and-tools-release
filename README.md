@@ -11,9 +11,12 @@ WIP
 
 
 ## Note
-Note: I belive software should be driven by rationale and scope.
 
-So this repo is not just a bare list of X tools. Instead we should focus more on problems/scope and documentation.
+Software should be driven by rationale and scope.
+
+So this repo is not just a bare list of X tools for release. 
+
+Instead we should focus more on problems/scope and documentation.
 
 
 # Contributing:
