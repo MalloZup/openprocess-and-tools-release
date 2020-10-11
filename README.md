@@ -10,6 +10,14 @@ It is a curated documentation about release process, tools, workflows, best prac
 WIP
 
 
+# Release engineering Practices:
+
+* Reproducible builds (https://reproducible-builds.org) 
+  TODO: dive more on the subject with examples
+
+
+
+
 ## Note
 
 Software should be driven by rationale and scope.
@@ -24,3 +32,8 @@ Instead we should focus more on problems/scope and documentation.
 I have opened a few issues for contributors.
 
 In the normal case, if you have any idea/proposal, feel free to open an issue **before sending PRs** to discuss the rationale.
+
+
+# Resources:
+
+https://en.wikipedia.org/wiki/Release_engineering
