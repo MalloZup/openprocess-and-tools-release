@@ -15,12 +15,6 @@ Rationale:
 The aim of openprocess-and-tools-release is to share knowledge about **Releasing Software**.
 It is a curated documentation about release process, tools, workflows, best practices used for Releasing sofware in the opensource world.
 
-## openprocess-and-tools-release
-
-- [Release engineering Practices](#release-engineering)
-- [Contributing](#Contributing)
-
-
 # Release engineering:
 
 * [Freebsd Release engineering](doc/freebsd.md)
