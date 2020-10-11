@@ -11,7 +11,7 @@ https://gitter.im/MalloZup-openprocess-and-tools-release/community
 - [ ] Create a community of people who are interested and active work on some subjects or help other maintainers/communities.
 
 
-## Table of Content
+## openprocess-and-tools-release
 
 - [Rationale](#rationale)
 - [Release engineering Practices](#Release_engineering_practices)
