@@ -5,6 +5,12 @@ https://www.freebsd.org/releng/
 Freebsd Release Engineering: https://www.freebsd.org/doc/en_US.ISO8859-1/articles/freebsd-releng/index.html
 
 
+# Open questions/research needed:
+
+- [ ] CI systems. Is the CI system phabricator or other tools are in place (jenkins etc)
+- [ ] is there any comprensive list of tools which migh help on releasing/automated the process?
+
+
 # Code Source/hosting:
 
 Freebsd uses https://reviews.freebsd.org/ for reviwing modification of pkgs and code.
@@ -21,6 +27,12 @@ Freebsd used a build system which is integrated to the source code web interface
 From the upstream doc:
 `WARNING: Harbormaster is still very rough. Read this document carefully to understand what it can and can not do and what to expect in the future.`
 
+
+# Bug tracker:
+
+- bugzilla: https://bugs.freebsd.org/bugzilla/
+
+ TO research: is there any automation between bugzilla and phabricator? Like one reference bug report and once it is merged on phabricators bug is closed or something similar.
 
 # Processes:
 
@@ -45,12 +57,4 @@ From their doc:
 The code slush does not enforce commit approvals to the branch.
 
 After the "Code Slush", comes the Code Freeze, this  marks the point in time where all changes, require explicit approval from the FreeBSD Release Engineering Team.
-
-
-# Bug trackings:
-
-- bugzilla: https://bugs.freebsd.org/bugzilla/
-
-**open question** is there any automation based on bugzilla?
-
 
