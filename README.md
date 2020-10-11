@@ -14,7 +14,7 @@ https://gitter.im/MalloZup-openprocess-and-tools-release/community
 ## openprocess-and-tools-release
 
 - [Rationale](#rationale)
-- [Release engineering Practices](#Release_engineering_practices)
+- [Release engineering Practices](#release-engineering-practices)
 - [Contributing](#Contributing)
 
 
