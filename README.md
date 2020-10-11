@@ -21,6 +21,8 @@ It is a curated documentation about release process, tools, workflows, best prac
 
 * [Freebsd Release engineering](doc/freebsd.md)
 
+* [Archlinux Release engineering](doc/archlinux.md) Status: WIP
+
 * [Reproducible builds](https://reproducible-builds.org) 
   Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code
  
@@ -29,11 +31,12 @@ It is a curated documentation about release process, tools, workflows, best prac
 # How to research/standards:
 
 Note: this question could change when the projects becomes more mature.
+Take this question as guideline when you want to investigate/research on Release engineering practices for X project.
 
-What are the process for a release from the smallest one, (package building) to the higher level one (distrubution, Projects like kernels etc?)
 
-- what is the build-system/or how is software built and integrated with source code?
-- where it the code hosted? Same build-system platform or other?
+- What are the process for a release from the smallest one, (package building) to the higher level one (distrubution, Projects like kernels etc?)
+- What is the build-system/or how is software built and integrated with source code?
+- Where it the code hosted? Same build-system platform or other?
 - How bugs are handled? Bugzilla or any other integration/automation workflow?
 - What are the best-practices/releases workflow? 
 - What is the testing system/CI if there is only 1, or how the project handles CI from the minimal to largest part? Example: in a distro, CI for X package differs to the "global" CI of the distro.
