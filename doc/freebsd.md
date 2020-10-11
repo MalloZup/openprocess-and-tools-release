@@ -13,7 +13,9 @@ Freebsd Release Engineering: https://www.freebsd.org/doc/en_US.ISO8859-1/article
 
 ## Notable Practices/Workflow:
 
-Freebsd uses the term "the Code Slush", when the release date is approaching, for just bugfixing instead of introducing new features.
+- `Code Slush`:
+
+Freebsd uses the term the Code Slush, when the release date is approaching, for just bugfixing instead of introducing new features.
 
 From their doc:
 "Although the code slush is not a hard freeze on the tree, the FreeBSD Release Engineering Team requests that bugs in the existing code base take priority over new features"
