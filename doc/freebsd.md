@@ -24,3 +24,6 @@ The code slush does not enforce commit approvals to the branch.
 After the "Code Slush", comes the Code Freeze, this  marks the point in time where all changes, require explicit approval from the FreeBSD Release Engineering Team.
 
 
+# Misc:
+
+- bugs: https://bugs.freebsd.org/bugzilla/
