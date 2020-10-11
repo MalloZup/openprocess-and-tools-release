@@ -10,34 +10,28 @@ https://gitter.im/MalloZup-openprocess-and-tools-release/community
 - [ ] Document how opensource Distro and Companies do Software release engineering.
 - [ ] Create a community of people who are interested and active work on some subjects or help other maintainers/communities.
 
+Rationale:
+
+The aim of openprocess-and-tools-release is to share knowledge about **Releasing Software**.
+It is a curated documentation about release process, tools, workflows, best practices used for Releasing sofware in the opensource world.
 
 ## openprocess-and-tools-release
 
 - [Rationale](#rationale)
-- [Release engineering Practices](#release-engineering-practices)
+- [Release engineering Practices](#release-engineering)
 - [Contributing](#Contributing)
 
 
-
-
-# Rationale:
-The aim of openprocess-and-tools-release is to share knowledge about **Releasing Software**.
-
-It is a curated documentation about release process, tools, workflows, best practices used for Releasing sofware in the opensource world.
-
-# Status:
-
-WIP
-
-
 # Release engineering:
+
+* [Freebsd Release engineering](doc/freebsd.md)
+
 
 * **Reproducible builds**:(distros like openSUSE/debian/archlinux etc partecipate on this): 
   Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code
  
  (https://reproducible-builds.org) 
   
-*  
 
 # Contributing:
 
