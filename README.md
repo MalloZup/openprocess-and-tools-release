@@ -1,5 +1,10 @@
 # openprocess-and-tools-release
 
+# Goals:
+
+- [ ] Document how opensource Distro and Companies do Software release engineering.
+- [ ] Create a community of people who are interested and active work on some subjects or help other maintainers/communities.
+ 
 # Rationale:
 The aim of openprocess-and-tools-release is to share knowledge about **Releasing Software**.
 
