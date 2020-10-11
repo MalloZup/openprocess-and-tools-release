@@ -38,6 +38,7 @@ What are the process for a release from the smallest one, (package building) to 
 - What are the best-practices/releases workflow? 
 - What is the testing system/CI if there is only 1, or how the project handles CI from the minimal to largest part? Example: in a distro, CI for X package differs to the "global" CI of the distro.
 - How is the integration of all of this tools, are existing any tools documentation/automation?
+- How the project handle semver or is using other or additional practices for breaking changes and updates?
 
 # Contributing:
 
