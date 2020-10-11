@@ -32,9 +32,10 @@ WIP
 
 # Release engineering Practices:
 
-* Reproducible builds (https://reproducible-builds.org) 
-  TODO: dive more on the subject with examples
-
+* Reproducible builds (distros like openSUSE/debian/archlinux etc partecipate on this): 
+ (Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code)
+ (https://reproducible-builds.org) 
+  
 
 # Contributing:
 
