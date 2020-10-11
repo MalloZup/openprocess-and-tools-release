@@ -1,5 +1,11 @@
 # openprocess-and-tools-release
 
+# Community:
+
+https://gitter.im/MalloZup-openprocess-and-tools-release/community
+
+
+
 # Goals:
 
 - [ ] Document how opensource Distro and Companies do Software release engineering.
